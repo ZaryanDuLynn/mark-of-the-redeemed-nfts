@@ -1,0 +1,43 @@
+{
+  "name": "Spiritual War",
+  "description": "A warrior of faith, his sword the Word of God, cleaves through darkness with divine precision. In the shadowed visage of Baphomet, severed by the soldier of Christ, two natures stand revealed in judgment: the right eye, dark and beastly, snarls with the savage pride of Satan, adorned with horns of rebellion; yet the left eye, glowing white and elevated, gleams as a fallen star, once bright in glory, now cast down, its light a mocking remnant of the adversary’s lost dominion. This radiant shame proclaims Yahweh’s sovereign might, as pencil lines evoke the soldier’s victory, lifting high the beast’s head to declare the triumph of the redeemed—Satan shattered, his abyssal reign annihilated by the blood-stained cross of Christ Jesus, immortalized in every stroke.",
+  "edition": "1/1",
+  "image": "https://arweave.net/OdsSsZ2K64GSCR4oxkoOeAqiYi4NyvjfGU1eEGZOLXE",
+  "image-pfp": "https://arweave.net/y9enH3_6T6jqKOSBxP1eCiOZJHinC5zF6Eo2USoXVvY",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "One of One"
+    },
+    {
+      "trait_type": "Medium",
+      "value": "Pencil on Paper"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Zaryan Du Lynn"
+    }
+  ],
+  "collection": {
+    "name": "Mark of the Redeemed: The Sacred Sketchbook",
+    "description": "A visual journey of spiritual awakening and divine redemption. Each sketch captures moments of struggle, grace, and triumph, illustrating light breaking through darkness and the soul’s transformation. The collection embodies the strength of faith, portraying the warrior’s heart in battle and the guiding hand of the Savior. These drawings reflect a soul’s passage from brokenness to healing, from doubt to unwavering belief. Marked by God’s seal, this work is a prayer for those who witness it—inviting them into the transformative power of grace and salvation. Each piece in \"Mark of the Redeemed: The Sacred Sketchbook\" is born from a unique, hand-drawn pencil sketch, crafted in solemn intervals as the artist pours soul and vigor into every stroke, intricately drawn with the artist’s fervent passion, then photographed and meticulously refined through discerning digital edits to the artist’s exacting vision, elevating its divine resonance. These masterpieces are minted as one-of-one NFTs on xrp.cafe, their eternal essence enshrined on the XRP Ledger. Dedicated by Zaryan Du Lynn to my Lord and Savior, Jesus of Nazareth. May this collection honor Your name forever. Let it be so.",
+    "marketplace": "xrp.cafe"
+  },
+  "is_transferable": true,
+  "burnable": false,
+  "royalties": {
+    "recipient": "rZARYANrHhuFQ2gDwpGWqSeX31m1b4UBR",
+    "percentage": 7.77
+  },
+  "provenance": {
+    "method": "Hand-drawn with pencil on paper",
+    "scriptural_anchor": "Matthew 10:34 — Thinke not that I am come to sende peace into the earth: I came not to send peace, but the sworde"
+  },
+  "unique_features": {
+    "authenticity_factor": "Proof of human hand",
+    "refined_vision": "Curated through meticulous digital artistry to embody the creator’s sacred intent",
+    "prayer_inscribed": "Lord, may this blade’s fire stir my brothers in Christ to wage relentless war, crushing darkness with unwavering zeal, in Jesus’ name, let it be so",
+    "emotional_signature": "Potent fervor",
+    "artist’s_mark": "The Chi-Rho, boldly inscribed on the soldier of Christ’s breastplate, a hallowed emblem of triumph drawn with unyielding faith, embraced by the Early Church as Christ’s steadfast seal, heralding His eternal reign"
+  }
+}
